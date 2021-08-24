@@ -1,4 +1,4 @@
-# Super-Resolution-Imaging
+ <center> Super-Resolution-Imaging </center>
 Image Super Resolution using  Keras, Design and train the deep learning model to upscale and improve the quality of low resolution images.
 
 # Model Predicted Output
